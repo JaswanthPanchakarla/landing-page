@@ -5,8 +5,6 @@ Welcome to my tribute project! This is a responsive landing page dedicated to th
 This project was built to practice modern CSS layouts while honoring the "People's Hero" who led the Azad Hind Fauj.
 
 ---
-
-## 🛠 Project Highlights
 ## 🛠 Project Highlights
 
 - **Hero Section:** A high-impact introduction featuring Netaji’s core philosophy with a bold Flexbox layout.
